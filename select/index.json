@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Walking with you",
+  "base_artist": "Novelbright",
+  "createdAt": "2025-12-13T04:32:32.055005Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walking with You",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_Walking_with_You_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Novelbright - Walking with you [Official Music Video]",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_Novelbright_-_Walking_with_you_[Official_Music_Video]_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking With You",
+      "artist": "Émilie Simon",
+      "has_synced": false,
+      "path": "select/03_Walking_With_You_Émilie_Simon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walking with you",
+      "artist": "Kazunari Ninomiya",
+      "has_synced": true,
+      "path": "select/04_Walking_with_you_Kazunari_Ninomiya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walking With You",
+      "artist": "Bro'Sis",
+      "has_synced": false,
+      "path": "select/05_Walking_With_You_Bro'Sis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walking With You",
+      "artist": "Thomas Godoj",
+      "has_synced": false,
+      "path": "select/06_Walking_With_You_Thomas_Godoj.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walking With You (instrumental)",
+      "artist": "Émilie Simon",
+      "has_synced": false,
+      "path": "select/07_Walking_With_You_(instrumental)_Émilie_Simon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walking With You",
+      "artist": "Ãmilie Simon",
+      "has_synced": false,
+      "path": "select/08_Walking_With_You_Ãmilie_Simon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Walking With You",
+      "artist": "Emilie Simon",
+      "has_synced": false,
+      "path": "select/09_Walking_With_You_Emilie_Simon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walking with you",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Walking_with_you_Novelbright.txt"
+    }
+  ]
+}
